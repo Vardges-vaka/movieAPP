@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.main-content {
+  padding-top: 64px;
+}
+
+/* Remove the existing styles that aren't needed */
